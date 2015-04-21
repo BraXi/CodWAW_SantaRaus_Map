@@ -1,0 +1,55 @@
+localize,zombie
+
+xanim,ch_dazed_d_death
+xanim,ch_dazed_c_death
+xanim,ch_dazed_b_death
+xanim,ch_dazed_a_death
+xanim,ch_dazed_d
+xanim,ch_dazed_c
+xanim,ch_dazed_b
+xanim,ch_dazed_a
+
+xmodel,viewmodel_usa_marine_arms
+xmodel,viewmodel_usa_marine_player
+
+// for zombie specific assets
+include,zombiemode
+
+// for coop players
+include,common_player_us
+
+// WEAPONS
+// regular weapons
+weapon,sp/colt
+weapon,sp/colt_dirty_harry
+weapon,sp/m1garand
+weapon,sp/kar98k_scoped_zombie
+weapon,sp/kar98k
+weapon,sp/fraggrenade
+weapon,sp/m2_flamethrower_zombie
+weapon,sp/molotov
+weapon,sp/napalmblob
+weapon,sp/napalmbloblight
+weapon,sp/doublebarrel
+weapon,sp/m1carbine
+weapon,sp/fg42_bipod
+weapon,sp/doublebarrel_sawed_grip
+weapon,sp/gewehr43
+weapon,sp/ptrs41_zombie
+weapon,sp/shotgun
+weapon,sp/stg44
+weapon,sp/thompson
+weapon,sp/mp40
+weapon,sp/mg42_bipod
+weapon,sp/bar
+weapon,sp/springfield
+weapon,sp/m1garand_gl
+weapon,sp/panzerschrek
+weapon,sp/mk2_frag
+weapon,sp/m7_launcher
+weapon,sp/walther
+weapon,sp/sw_357
+weapon,sp/30cal_bipod
+weapon,sp/zombie_colt
+weapon,sp/stielhandgranate
+weapon,sp/ray_gun

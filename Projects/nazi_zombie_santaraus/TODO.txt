@@ -1,0 +1,42 @@
+!!! = ZAJEBIŒCIE WA¯NE
+- = do zrobienia
++ = zrobione
+
+- !!! rozlozyc pathnode w lesie !!!
+- !!! dodaæ bron do kupienia na œcianach, mystery boxy, soda itp... !!!
+- !!! przypisz nowe spawnery w biolab do zone !!!
+- !!! wiêcej spawnerów !!! 
+- !!! scaliæ nowe skrypty z twoimi, zobacz NOWE_SCR.txt !!!
+- !!! dodac traverse na drabinki przy domku aby mogly sie wspinac za graczem !!!
+
+- oskryptowac wybor spawna
+- muzyka z killing floor
+- dodac swiatla punktowe (spotlight) i flicker,
+- oskryptowaæ poci¹g na stacji
+- oskryptowaæ ³odzie
+- soundalias "fire_small" dla efektów ognia nie dzia³a
+- naprawiæ terrain na zachód od domku
+- clip na umywalke w lazience
+- swiatlo ksiezyca przechodzi przez curve patcha na stacji
+
++ zombie juz przechodza przez wejscie do podziemi
++ nowy loadscreen
++ ogarniêty folder projektu
++ naprawiæ soundaliasy
++ uruchomiæ mape na ugx
++ spawnery, zone...
++ risery na œniegu
++ rozkminic dlaczego loadscreen nie dziala
++ dodac modele dla swiatel
++ 'zamkn¹æ mape' w podziemiach
++ jeszcze raz dodac FX za pomoca fxutil
++ naprawic fx sniegu w laboratorium
++ naprawiæ pathnode
++ lobby wyboru spawna
++ naprawic drzwi w laboratorium
++ vision changer
++ clip aby gracz nie wypadl z mapy
++ lightgrid/reflection w podziemiach
++ stacja kolejowa
++ biolab
++ csc

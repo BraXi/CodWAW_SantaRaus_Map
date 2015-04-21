@@ -1,0 +1,5 @@
+ignore,code_post_gfx
+ignore,common
+
+ui_map,maps/nazi_zombie_santaraus.csv
+material,loadscreen_nazi_zombie_santaraus

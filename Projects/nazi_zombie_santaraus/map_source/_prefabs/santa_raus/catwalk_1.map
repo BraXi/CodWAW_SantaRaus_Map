@@ -1,0 +1,88 @@
+iwmap 4
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 44 44 0 ) ( -48 44 0 ) ( -48 -46 0 ) clip_nosight_metal 64 64 -624 -368 0 0 lightmap_gray 16383.979 16384 -624 -368 0 0
+ ( -48 -46 4 ) ( -48 44 4 ) ( 44 44 4 ) clip_nosight_metal 64 64 -624 -368 0 0 lightmap_gray 16383.936 16384 -624 -368 0 0
+ ( -46 -48 6 ) ( 46 -48 6 ) ( 46 -48 -2 ) clip_nosight_metal 64 64 -623.99701 160 0 0 lightmap_gray 16383.936 16384.021 -623.99451 160 0 0
+ ( 46 -46 6 ) ( 46 44 6 ) ( 46 44 -2 ) clip_nosight_metal 64 64 368 160 0 0 lightmap_gray 16384 16384 368 160 0 0
+ ( 46 46 6 ) ( -46 46 6 ) ( -46 46 -2 ) clip_nosight_metal 64 64 -623.99695 160 0 0 lightmap_gray 16383.957 16384.021 -623.99304 160 0 0
+ ( -46 44 6 ) ( -46 -46 6 ) ( -46 -46 -2 ) clip_nosight_metal 64 64 368 160 0 0 lightmap_gray 16384 16383.949 368 160 0 0
+}
+// brush 1
+{
+ ( 46 -48 0 ) ( 48 -48 0 ) ( 48 46 0 ) berlin_wall_metal_bunker_pipe 128 128 -624 -368 0 0 lightmap_gray 16382.994 16383.969 -637.98004 -385.9913 -180 -3.8769151e-005
+ ( 48 46 4 ) ( 48 -48 4 ) ( 46 -48 4 ) berlin_wall_metal_bunker_pipe 128.00757 128 -624.03516 -368 0 -4.1934654e-005 lightmap_gray 16383 16383.969 -637.97559 -385.99393 180 0
+ ( 48 48 6 ) ( 46 48 6 ) ( 46 48 -2 ) berlin_wall_metal_bunker_pipe 128 128 -623.99762 158.00516 0 0 lightmap_gray 16380.875 -16384 -637.88721 -158.00516 180 0
+ ( 46 46 6 ) ( 46 -48 6 ) ( 46 -48 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16383.967 -16384.018 386 -158 180 0
+ ( 46 -50 6 ) ( 48 -50 6 ) ( 48 -50 -2 ) berlin_wall_metal_bunker_pipe 128.00629 128 -624.02789 158 0 0 lightmap_gray 16386.545 -16384 -638.09235 -158 180 0
+ ( 48 -52 6 ) ( 48 42 6 ) ( 48 42 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16384 -16383.99 386 -158 -180 0
+}
+// brush 2
+ {
+  mesh
+  {
+   berlin_floors_metal_catwalk1
+   lightmap_gray
+   2 2 16 8
+   (
+	v -46 46 2 t 0 -1024 24 24
+	v -46 -48 2 t 0 -0 24 30
+   )
+   (
+	v 46 46 2 t 1024 -1024 30 24
+	v 46 -48 2 t 1024 -0 30 30
+   )
+  }
+ }
+// brush 3
+ {
+  mesh
+  {
+   berlin_floors_metal_catwalk1
+   lightmap_gray
+   2 2 16 8
+   (
+	v -46 -48 2 t 0 -0 24 30
+	v -46 46 2 t 0 -1024 24 24
+   )
+   (
+	v 46 -48 2 t 1024 -0 30 30
+	v 46 46 2 t 1024 -1024 30 24
+   )
+  }
+ }
+// brush 4
+{
+ ( -46 46 0 ) ( -48 46 0 ) ( -48 -48 0 ) berlin_wall_metal_bunker_pipe 128 128 -624.00488 -368 0 0 lightmap_gray 16385 16384 -638.03857 -384.01062 0 1.921166e-005
+ ( -48 -48 4 ) ( -48 46 4 ) ( -46 46 4 ) berlin_wall_metal_bunker_pipe 127.99864 128 -623.9939 -368 0 -0.00011399875 lightmap_gray 16383.348 16384 -637.97784 -384.00894 0 4.797391e-005
+ ( -48 -50 6 ) ( -46 -50 6 ) ( -46 -50 -2 ) berlin_wall_metal_bunker_pipe 127.99854 128 -623.99341 158.00735 0 0 lightmap_gray 16385.021 16384 -638.03845 158.00735 0 0
+ ( -46 -48 6 ) ( -46 46 6 ) ( -46 46 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16384 16383.873 384 158 0 0
+ ( -46 48 6 ) ( -48 48 6 ) ( -48 48 -2 ) berlin_wall_metal_bunker_pipe 128.0085 128 -624.0401 157.99507 0 0 lightmap_gray 16383.238 16384 -637.97198 157.99507 0 0
+ ( -48 50 6 ) ( -48 -44 6 ) ( -48 -44 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16384 16384.236 384 158 0 0
+}
+// brush 5
+{
+ ( 46 46 0 ) ( 46 48 0 ) ( -48 48 0 ) berlin_wall_metal_bunker_pipe 128 128 -624 -367.99448 0 0 lightmap_gray 16381.195 16383.969 -637.92883 -384.00494 -90 -3.5055349e-005
+ ( -48 48 4 ) ( 46 48 4 ) ( 46 46 4 ) berlin_wall_metal_bunker_pipe 128 127.9969 -624 -367.98581 0 1.145418e-005 lightmap_gray 16381.375 16383.988 -637.93445 -384.00452 -90 0
+ ( -46 48 6 ) ( -46 46 6 ) ( -46 46 -2 ) berlin_wall_metal_bunker_pipe 128 128 367.99326 158 0 0 lightmap_gray 16383.688 -16384 -637.98798 -158 180 0
+ ( -48 46 6 ) ( 46 46 6 ) ( 46 46 -2 ) berlin_wall_metal_bunker_pipe 128 128 -624 158 0 0 lightmap_gray 16384 16384.15 384 158 0 0
+ ( 46 46 6 ) ( 46 48 6 ) ( 46 48 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16383.783 -16384 -637.99042 -158 180 0
+ ( 50 48 6 ) ( -44 48 6 ) ( -44 48 -2 ) berlin_wall_metal_bunker_pipe 128 128 -623.99707 158 0 0 lightmap_gray 16384 16384.223 384 158 0 0
+}
+// brush 6
+{
+ ( -46 -48 0 ) ( -46 -50 0 ) ( 48 -50 0 ) berlin_wall_metal_bunker_pipe 128 128 -623.99847 -367.99442 0 1.144407e-005 lightmap_gray 16386.625 16383.969 -640.17004 -384.03049 90 5.8912687e-005
+ ( 48 -50 4 ) ( -46 -50 4 ) ( -46 -48 4 ) berlin_wall_metal_bunker_pipe 128 128 -624.00269 -367.99603 0 0 lightmap_gray 16388.041 16383.971 -640.21399 -384.02777 90 1.7019145e-005
+ ( 46 -50 6 ) ( 46 -48 6 ) ( 46 -48 -2 ) berlin_wall_metal_bunker_pipe 128 128 367.99448 158 0 0 lightmap_gray 16382.9 16384 -639.96063 158 0 0
+ ( 48 -48 6 ) ( -46 -48 6 ) ( -46 -48 -2 ) berlin_wall_metal_bunker_pipe 128 128 -623.99506 158 0 0 lightmap_gray 16383.984 -16384.086 384 -158 180 0
+ ( -46 -48 6 ) ( -46 -50 6 ) ( -46 -50 -2 ) berlin_wall_metal_bunker_pipe 128 128 368 158 0 0 lightmap_gray 16385.334 16384 -640.04553 158 0 0
+ ( -50 -50 6 ) ( 44 -50 6 ) ( 44 -50 -2 ) berlin_wall_metal_bunker_pipe 128 128 -624 158 0 0 lightmap_gray 16384 -16384.313 384 -158 180 0
+}
+}
+// entity 1
+// entity 2
+// entity 3
+// entity 4

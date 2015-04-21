@@ -1,0 +1,1197 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+"sunisprimarylight" "1"
+"contrastgain" ".5"
+"brightness" ".4"
+"sunlight" ".8"
+"sundirection" "-30 91 0"
+"sundiffusecolor" "0.4 0.6 1"
+"suncolor" "0.8 0.9 1"
+"diffusefraction" "0.6"
+"ambient" "0.1"
+"_color" "0.717647 0.776471 1.000000"
+// brush 0
+{
+ ( 240 256 -48 ) ( -272 256 -48 ) ( -272 -256 -48 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -256 -256 144 ) ( -256 256 144 ) ( 256 256 144 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -256 -256 88 ) ( 256 -256 88 ) ( 256 -256 24 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 -16 0 0
+ ( 256 -256 88 ) ( 256 256 88 ) ( 256 256 24 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 -16 0 0
+ ( 256 256 88 ) ( -256 256 88 ) ( -256 256 24 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 -16 0 0
+ ( -256 256 88 ) ( -256 -256 88 ) ( -256 -256 24 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 -16 0 0
+}
+// brush 1
+{
+ ( 8520 4088 -15248 ) ( -11800 4088 -15248 ) ( -11800 -13624 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -10288 -13624 -504 ) ( -10288 4088 -504 ) ( 10032 4088 -504 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -11800 -13624 14848 ) ( 8520 -13624 14848 ) ( 8520 -13624 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 8520 -13624 14848 ) ( 8520 4088 14848 ) ( 8520 4088 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 10608 -1432 14848 ) ( -9712 -1432 14848 ) ( -9712 -1432 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -11800 4088 14848 ) ( -11800 -13624 14848 ) ( -11800 -13624 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 2
+{
+ ( -4472 -648 76 ) ( -4516 -648 76 ) ( -4516 -688 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4516 -688 500 ) ( -4516 -648 500 ) ( -4472 -648 500 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4516 -688 500 ) ( -4472 -688 500 ) ( -4472 -688 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4472 -688 500 ) ( -4472 -648 500 ) ( -4472 -648 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4472 -648 500 ) ( -4516 -648 500 ) ( -4516 -648 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4516 -648 500 ) ( -4516 -688 500 ) ( -4516 -688 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 3
+{
+ ( -4496 -564 76 ) ( -4528 -564 76 ) ( -4528 -596 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4528 -596 500 ) ( -4528 -564 500 ) ( -4496 -564 500 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4528 -596 500 ) ( -4496 -596 500 ) ( -4496 -596 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4496 -596 500 ) ( -4496 -564 500 ) ( -4496 -564 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4496 -564 500 ) ( -4528 -564 500 ) ( -4528 -564 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4528 -564 500 ) ( -4528 -596 500 ) ( -4528 -596 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 4
+{
+ ( -4488 -484 76 ) ( -4524 -484 76 ) ( -4524 -520 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4524 -520 500 ) ( -4524 -484 500 ) ( -4488 -484 500 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4524 -520 500 ) ( -4488 -520 500 ) ( -4488 -520 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4488 -520 500 ) ( -4488 -484 500 ) ( -4488 -484 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4488 -484 500 ) ( -4524 -484 500 ) ( -4524 -484 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4524 -484 500 ) ( -4524 -520 500 ) ( -4524 -520 76 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 5
+{
+ ( -4868 -1068 120 ) ( -4908 -1068 120 ) ( -4908 -1104 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4920 -1104 392 ) ( -4920 -1068 392 ) ( -4880 -1068 392 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4908 -1104 136 ) ( -4868 -1104 136 ) ( -4868 -1104 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4868 -1104 136 ) ( -4868 -1068 136 ) ( -4868 -1068 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4868 -1068 136 ) ( -4908 -1068 136 ) ( -4908 -1068 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4908 -1068 136 ) ( -4908 -1104 136 ) ( -4908 -1104 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 6
+{
+ ( -4784 -1052 120 ) ( -4816 -1052 120 ) ( -4816 -1088 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4816 -1088 392 ) ( -4816 -1052 392 ) ( -4784 -1052 392 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4816 -1088 392 ) ( -4784 -1088 392 ) ( -4784 -1088 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4784 -1088 392 ) ( -4784 -1052 392 ) ( -4784 -1052 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4784 -1052 392 ) ( -4816 -1052 392 ) ( -4816 -1052 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4816 -1052 392 ) ( -4816 -1088 392 ) ( -4816 -1088 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 7
+{
+ ( -4704 -1056 120 ) ( -4736 -1056 120 ) ( -4736 -1092 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4736 -1092 392 ) ( -4736 -1056 392 ) ( -4704 -1056 392 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4736 -1092 392 ) ( -4704 -1092 392 ) ( -4704 -1092 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4704 -1092 392 ) ( -4704 -1056 392 ) ( -4704 -1056 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4704 -1056 392 ) ( -4736 -1056 392 ) ( -4736 -1056 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -4736 -1056 392 ) ( -4736 -1092 392 ) ( -4736 -1092 120 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 8
+{
+ ( -1920 -1008 -400 ) ( -2080 -1008 -400 ) ( -2080 -1176 -400 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2592 -1176 512 ) ( -2592 -1008 512 ) ( -2432 -1008 512 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2080 -1128 29696 ) ( -1920 -1176 29696 ) ( -1920 -1176 -400 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1920 -1176 14848 ) ( -1872 -1120 14848 ) ( -1872 -1120 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1872 -1120 14848 ) ( -2000 -984 14848 ) ( -2000 -984 -15248 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2000 -984 29696 ) ( -2080 -1128 29696 ) ( -2080 -1128 -400 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 9
+{
+ ( -2080 -960 -400 ) ( -2240 -960 -400 ) ( -2240 -1128 -400 ) clip 64 64 -160 -48 0 0 lightmap_gray 16384.076 16384 -159.99318 -48 0 0
+ ( -3264 -1128 512 ) ( -3264 -960 512 ) ( -3104 -960 512 ) clip 64 64 -160 -48 0 0 lightmap_gray 16384.076 16384 -159.99318 -48 0 0
+ ( -2080 -1128 -15248 ) ( -2240 -856 14848 ) ( -2080 -1128 14848 ) clip 64 64 -160.00195 0 0 0 lightmap_gray 16384 16384 -160 0 0 0
+ ( -2080 -1128 -15248 ) ( -2080 -1128 14848 ) ( -2000 -984 14848 ) clip 64 64 48.001587 0 0 0 lightmap_gray 16384.152 16384 48.009357 0 0 0
+ ( -2160 -728 14848 ) ( -2160 -728 -15248 ) ( -2000 -984 -15248 ) clip 64 64 48 -0.0078125 0 0 lightmap_gray 16384 16384 48 -0.0078125 0 0
+ ( -2240 -856 14848 ) ( -2240 -856 -15248 ) ( -2160 -728 -15248 ) clip 64 64 48 0 0 0 lightmap_gray 16384 16384 48 0 0 0
+}
+// brush 10
+{
+ ( -1768 -920 -208 ) ( -1880 -920 -208 ) ( -1880 -1096 -208 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1880 -1096 504 ) ( -1880 -920 504 ) ( -1768 -920 504 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1928 -984 -688 ) ( -1768 -1096 -688 ) ( -1768 -1096 -720 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1768 -1096 -176 ) ( -1720 -1032 -176 ) ( -1720 -1032 -208 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1720 -1032 -176 ) ( -1880 -920 -176 ) ( -1880 -920 -208 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1880 -920 -688 ) ( -1928 -984 -688 ) ( -1928 -984 -720 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1768 -1096 -720 ) ( -1928 -984 -720 ) ( -1928 -984 -688 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"origin" "0.0 0.0 0.0"
+"model" "santaraus_geo.map"
+"classname" "misc_prefab"
+}
+// entity 2
+{
+"target" "start_zone_spawners"
+"targetname" "start_zone"
+"classname" "info_volume"
+// brush 0
+{
+ ( -640 48 -40 ) ( -1472 48 -40 ) ( -1472 -928 -40 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1560 -928 656 ) ( -1560 48 656 ) ( -728 48 656 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1328 -2344 656 ) ( -496 -2344 656 ) ( -496 -2344 104 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 928 -3672 656 ) ( 928 -2696 656 ) ( 928 -2696 104 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -1032 1712 656 ) ( -1864 1712 656 ) ( -1864 1712 104 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -3056 648 792 ) ( -3056 -328 792 ) ( -3056 -328 240 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 3
+{
+"script_string" "riser"
+"script_noteworthy" "zombie_spawner"
+"spawnflags" "3"
+"script_forcespawn" "1"
+"count" "9999"
+"targetname" "start_zone_spawners"
+"origin" "-448.4 -903.9 208.0"
+"angles" "0 90 0"
+"export" "2"
+"model" "char_ger_wrmcht_fullbody1"
+"classname" "actor_axis_zombie_ger_ber_sshonor"
+}
+// entity 4
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.134198"
+"angles" "357.543 142.866 2.1521"
+"targetname" "start_zone_spawners_rise"
+"origin" "-418.9 -1137.6 86.1"
+"classname" "script_struct"
+}
+// entity 5
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.157361"
+"angles" "0.599976 160.378 -1.1641"
+"targetname" "start_zone_spawners_rise"
+"origin" "-590.2 -1213.1 82.0"
+"classname" "script_struct"
+}
+// entity 6
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.224579"
+"angles" "0.561523 124.717 1.46759"
+"targetname" "start_zone_spawners_rise"
+"origin" "-381.1 -1296.6 74.2"
+"classname" "script_struct"
+}
+// entity 7
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.056305"
+"angles" "359.015 46.4832 0.916595"
+"targetname" "start_zone_spawners_rise"
+"origin" "-529.2 -1399.5 89.9"
+"classname" "script_struct"
+}
+// entity 8
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.075842"
+"angles" "359.303 117.147 -0.617685"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1007.2 -1155.3 92.6"
+"classname" "script_struct"
+}
+// entity 9
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.123981"
+"angles" "2.29156 317 1.59409"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1045.8 -1353.1 96.9"
+"classname" "script_struct"
+}
+// entity 10
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.059528"
+"angles" "1.51642 160.247 -0.443433"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1283.5 -1384.1 86.8"
+"classname" "script_struct"
+}
+// entity 11
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.088879"
+"angles" "1.89941 185.911 -0.565939"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1144.1 -1110.3 95.6"
+"classname" "script_struct"
+}
+// entity 12
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.168732"
+"angles" "358.776 143.416 1.66748"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1384.4 -1072.1 98.5"
+"classname" "script_struct"
+}
+// entity 13
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.925659"
+"angles" "1.44333 161.433 -2.08391"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1397.7 -871.5 152.0"
+"classname" "script_struct"
+}
+// entity 14
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.236060"
+"angles" "357.943 208.949 0.921631"
+"targetname" "start_zone_spawners_rise"
+"origin" "-944.3 -824.9 152.0"
+"classname" "script_struct"
+}
+// entity 15
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.110632"
+"angles" "0.312805 177.111 0.883026"
+"targetname" "start_zone_spawners_rise"
+"origin" "-826.3 -744.0 152.0"
+"classname" "script_struct"
+}
+// entity 16
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.226630"
+"angles" "2.005 210.674 -0.558317"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1650.1 -971.3 113.3"
+"classname" "script_struct"
+}
+// entity 17
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.152197"
+"angles" "1.71036 17.8967 -0.135036"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1590.7 -1101.0 102.4"
+"classname" "script_struct"
+}
+// entity 18
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.006024"
+"angles" "0.291901 27.4658 -0.472557"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1677.1 -1148.1 105.1"
+"classname" "script_struct"
+}
+// entity 19
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.196381"
+"angles" "0.0540161 241.282 -1.7215"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1613.9 -1277.4 112.8"
+"classname" "script_struct"
+}
+// entity 20
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.783240"
+"angles" "358.066 11.9092 -1.20637"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1668.5 -1320.6 102.7"
+"classname" "script_struct"
+}
+// entity 21
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.707159"
+"angles" "357.754 353.342 -2.49864"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1632.4 -1528.9 71.0"
+"classname" "script_struct"
+}
+// entity 22
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.028674"
+"angles" "0.48645 133.868 2.18063"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1527.2 -1559.1 59.9"
+"classname" "script_struct"
+}
+// entity 23
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.822076"
+"angles" "1.36551 359.868 -0.178996"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1578.5 -1367.6 92.6"
+"classname" "script_struct"
+}
+// entity 24
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.267133"
+"angles" "0.948944 339.093 0.841522"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1633.9 -700.5 129.0"
+"classname" "script_struct"
+}
+// entity 25
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.782672"
+"angles" "2.11609 292.445 -1.74057"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1715.8 -648.7 129.8"
+"classname" "script_struct"
+}
+// entity 26
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.745721"
+"angles" "358.801 322.778 -2.09566"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1565.7 -491.4 135.0"
+"classname" "script_struct"
+}
+// entity 27
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.039899"
+"angles" "0.807648 229.548 -1.72836"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1697.2 -484.6 136.1"
+"classname" "script_struct"
+}
+// entity 28
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.976874"
+"angles" "1.43082 158.181 1.10764"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1736.1 -354.3 136.1"
+"classname" "script_struct"
+}
+// entity 29
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.034625"
+"angles" "2.09442 92.6367 1.32095"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1630.4 -350.6 133.1"
+"classname" "script_struct"
+}
+// entity 30
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.156281"
+"angles" "0.733643 340.236 2.31369"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1731.6 -203.6 131.9"
+"classname" "script_struct"
+}
+// entity 31
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.253143"
+"angles" "358.134 297.246 0.326996"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1599.3 -206.7 128.5"
+"classname" "script_struct"
+}
+// entity 32
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.855896"
+"angles" "358.95 164.114 -1.10643"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1736.1 -75.2 141.1"
+"classname" "script_struct"
+}
+// entity 33
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.157544"
+"angles" "1.61758 19.0723 1.99097"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1612.8 13.5 141.9"
+"classname" "script_struct"
+}
+// entity 34
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.991870"
+"angles" "358.883 198.831 1.99051"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1701.1 161.5 143.9"
+"classname" "script_struct"
+}
+// entity 35
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.791278"
+"angles" "358.168 275.098 0.994263"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1779.0 138.1 145.5"
+"classname" "script_struct"
+}
+// entity 36
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.267572"
+"angles" "358.484 215.815 1.65512"
+"targetname" "start_zone_spawners_rise"
+"origin" "-1859.3 285.5 147.4"
+"classname" "script_struct"
+}
+// entity 37
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1859.3 285.5 147.4"
+"targetname" "start_zone_spawners_rise"
+"angles" "358.484 215.815 1.65512"
+"modelscale" "1.267572"
+}
+// entity 38
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1452.6 119.2 143.0"
+"targetname" "start_zone_spawners_rise"
+"angles" "2.43225 122.157 -1.04949"
+"modelscale" "0.891986"
+}
+// entity 39
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1371.2 251.2 146.2"
+"targetname" "start_zone_spawners_rise"
+"angles" "0.581665 218.397 1.42349"
+"modelscale" "0.752332"
+}
+// entity 40
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1228.6 106.8 138.4"
+"targetname" "start_zone_spawners_rise"
+"angles" "2.48032 199.16 -0.17823"
+"modelscale" "0.825610"
+}
+// entity 41
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1058.0 250.5 144.0"
+"targetname" "start_zone_spawners_rise"
+"angles" "358.132 304.585 1.27228"
+"modelscale" "0.817590"
+}
+// entity 42
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-899.6 178.8 137.4"
+"targetname" "start_zone_spawners_rise"
+"angles" "1.35971 149.568 -1.45753"
+"modelscale" "0.706097"
+}
+// entity 43
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-899.9 69.3 134.0"
+"targetname" "start_zone_spawners_rise"
+"angles" "0.813751 81.0461 1.16394"
+"modelscale" "1.002747"
+}
+// entity 44
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-1041.3 93.9 136.5"
+"targetname" "start_zone_spawners_rise"
+"angles" "359.094 62.5012 -1.15159"
+"modelscale" "0.850183"
+}
+// entity 45
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-818.7 268.3 151.9"
+"targetname" "start_zone_spawners_rise"
+"angles" "359.207 214.222 0.794678"
+"modelscale" "0.798657"
+}
+// entity 46
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-549.9 -133.4 126.4"
+"targetname" "start_zone_spawners_rise"
+"angles" "0.0761413 118.279 1.97678"
+"modelscale" "1.205554"
+}
+// entity 47
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-603.1 94.4 141.3"
+"targetname" "start_zone_spawners_rise"
+"angles" "0.32196 296.719 0.00869751"
+"modelscale" "0.701813"
+}
+// entity 48
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-497.3 200.6 140.9"
+"targetname" "start_zone_spawners_rise"
+"angles" "2.03384 92.0105 -1.32111"
+"modelscale" "1.268817"
+}
+// entity 49
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-323.8 209.8 141.1"
+"targetname" "start_zone_spawners_rise"
+"angles" "358.751 38.2764 1.74805"
+"modelscale" "0.969641"
+}
+// entity 50
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-291.0 -15.0 135.5"
+"targetname" "start_zone_spawners_rise"
+"angles" "359.368 72.1472 -1.89422"
+"modelscale" "1.278375"
+}
+// entity 51
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-604.7 170.5 146.9"
+"targetname" "start_zone_spawners_rise"
+"angles" "2.19528 231.987 1.87622"
+"modelscale" "1.051105"
+}
+// entity 52
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-345.5 -285.1 121.6"
+"targetname" "start_zone_spawners_rise"
+"angles" "0.870667 234.152 -1.42914"
+"modelscale" "1.082562"
+}
+// entity 53
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-608.9 -477.1 117.6"
+"targetname" "start_zone_spawners_rise"
+"angles" "1.36993 255.289 0.877991"
+"modelscale" "0.892059"
+}
+// entity 54
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-616.5 -654.7 123.0"
+"targetname" "start_zone_spawners_rise"
+"angles" "1.81015 29.0149 0.186005"
+"modelscale" "0.882446"
+}
+// entity 55
+{
+"script_noteworthy" "find_flesh"
+"classname" "script_struct"
+"origin" "-360.3 -769.0 110.6"
+"targetname" "start_zone_spawners_rise"
+"angles" "359.278 26.1365 2.43286"
+"modelscale" "1.115833"
+}
+// entity 56
+{
+"origin" "-1464.0 -520.0 160.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 57
+{
+"origin" "-1776.0 -1040.0 144.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 58
+{
+"origin" "-1856.0 -1000.0 136.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 59
+{
+"origin" "-1840.0 -984.0 136.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 60
+{
+"origin" "-1864.0 -960.0 136.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 61
+{
+"origin" "-1880.0 -984.0 136.0"
+"script_noteworthy" "fire6"
+"script_string" "stationary"
+"targetname" "fx"
+"classname" "script_struct"
+}
+// entity 62
+{
+"target" "zone2_spawners"
+"targetname" "zone2"
+"classname" "info_volume"
+// brush 0
+{
+ ( -4624 48 -40 ) ( -5456 48 -40 ) ( -5456 -928 -40 ) volume 64 64 -3983.989 0 0 0 lightmap_gray 16384 16384 -3983.9917 0 0 0
+ ( -4144 -928 640 ) ( -4144 48 640 ) ( -3312 48 640 ) volume 64 64 -3983.9739 0 0 0 lightmap_gray 16384 16384 -3983.9739 0 0 0
+ ( -5312 -2344 656 ) ( -4480 -2344 656 ) ( -4480 -2344 104 ) volume 64 64 -3983.99 0 0 0 lightmap_gray 16384 16384 -3983.99 0 0 0
+ ( -3056 -3672 792 ) ( -3056 -2696 792 ) ( -3056 -2696 240 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -5016 1712 656 ) ( -5848 1712 656 ) ( -5848 1712 104 ) volume 64 64 -3983.9861 0 0 0 lightmap_gray 16384 16384 -3983.9729 0 0 0
+ ( -5440 664 648 ) ( -5440 -312 648 ) ( -5440 -312 96 ) volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 63
+{
+"target" "underground_spawners"
+"targetname" "underground"
+"classname" "info_volume"
+// brush 0
+{
+ ( -4624 48 -720 ) ( -5456 48 -720 ) ( -5456 -928 -720 ) volume 64 64 -3983.9753 0 0 0 lightmap_gray 16384 16384 -3983.9766 0 0 0
+ ( -4144 -928 -40 ) ( -4144 48 -40 ) ( -3312 48 -40 ) volume 64 64 -3983.9766 0 0 0 lightmap_gray 16383.988 16384 -3983.9739 0 0 0
+ ( -5312 -2344 -24 ) ( -4480 -2344 -24 ) ( -4480 -2344 -576 ) volume 64 64 -3983.9792 680 0 0 lightmap_gray 16384 16384 -3983.9792 680 0 0
+ ( -2408 -3672 112 ) ( -2408 -2696 112 ) ( -2408 -2696 -440 ) volume 64 64 0 680 0 0 lightmap_gray 16384 16384 0 680 0 0
+ ( -5016 1712 -24 ) ( -5848 1712 -24 ) ( -5848 1712 -576 ) volume 64 64 -3983.9861 680 0 0 lightmap_gray 16384 16384 -3983.9602 680 0 0
+ ( -5440 664 -32 ) ( -5440 -312 -32 ) ( -5440 -312 -584 ) volume 64 64 0 680 0 0 lightmap_gray 16384 16384 0 680 0 0
+}
+}
+// entity 64
+{
+"origin" "-1904.0 -1040.0 184.0"
+"classname" "node_pathnode"
+}
+// entity 65
+{
+"origin" "-1960.0 -984.0 184.0"
+"classname" "node_pathnode"
+}
+// entity 66
+{
+"dmg" "666"
+"spawnflags" "14"
+"classname" "trigger_hurt"
+// brush 0
+{
+ ( 4048 -1384 -4208 ) ( -5760 -1384 -4208 ) ( -5760 -4992 -4208 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -5832 -4992 -64 ) ( -5832 -1384 -64 ) ( 3976 -1384 -64 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -5960 -4992 200 ) ( 3848 -4992 200 ) ( 3848 -4992 168 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3848 -4992 200 ) ( 3848 -1384 200 ) ( 3848 -1384 168 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3856 -1392 200 ) ( -5952 -1392 200 ) ( -5952 -1392 168 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -5960 -1384 200 ) ( -5960 -4992 200 ) ( -5960 -4992 168 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 67
+{
+"script_string" "riser"
+"script_noteworthy" "zombie_spawner"
+"spawnflags" "3"
+"script_forcespawn" "1"
+"count" "9999"
+"targetname" "zone2_spawners"
+"origin" "-3672.4 -415.9 296.0"
+"angles" "0 90 0"
+"export" "3"
+"model" "char_ger_wrmcht_fullbody1"
+"classname" "actor_axis_zombie_ger_ber_sshonor"
+}
+// entity 68
+{
+"script_string" "riser"
+"script_noteworthy" "zombie_spawner"
+"spawnflags" "3"
+"script_forcespawn" "1"
+"count" "9999"
+"targetname" "underground_spawners"
+"origin" "-3696.4 -831.9 -440.0"
+"angles" "0 90 0"
+"export" "4"
+"model" "char_ger_wrmcht_fullbody1"
+"classname" "actor_axis_zombie_ger_ber_sshonor"
+}
+// entity 69
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.047571"
+"angles" "353.286 291.219 6.44834"
+"targetname" "zone2_spawners_rise"
+"origin" "-3264.0 -5.0 263.6"
+"classname" "script_struct"
+}
+// entity 70
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.848022"
+"angles" "7.59095 183.032 7.0717"
+"targetname" "zone2_spawners_rise"
+"origin" "-3371.1 104.4 239.9"
+"classname" "script_struct"
+}
+// entity 71
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.165363"
+"angles" "4.50978 108.25 -3.19239"
+"targetname" "zone2_spawners_rise"
+"origin" "-3461.7 -11.0 235.0"
+"classname" "script_struct"
+}
+// entity 72
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.255908"
+"angles" "1.19747 108.94 -4.35327"
+"targetname" "zone2_spawners_rise"
+"origin" "-3543.4 83.6 227.9"
+"classname" "script_struct"
+}
+// entity 73
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.865564"
+"angles" "357.471 283.115 3.16728"
+"targetname" "zone2_spawners_rise"
+"origin" "-3643.5 -36.1 222.8"
+"classname" "script_struct"
+}
+// entity 74
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.787964"
+"angles" "12.3303 171.48 1.39687"
+"targetname" "zone2_spawners_rise"
+"origin" "-3829.0 -22.0 197.3"
+"classname" "script_struct"
+}
+// entity 75
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.976947"
+"angles" "357.283 279.486 12.929"
+"targetname" "zone2_spawners_rise"
+"origin" "-3850.6 -146.8 196.0"
+"classname" "script_struct"
+}
+// entity 76
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.957080"
+"angles" "345.836 351.721 -0.242819"
+"targetname" "zone2_spawners_rise"
+"origin" "-3931.1 -93.5 176.9"
+"classname" "script_struct"
+}
+// entity 77
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.975977"
+"angles" "354.602 296.96 11.3875"
+"targetname" "zone2_spawners_rise"
+"origin" "-3929.8 -227.3 177.6"
+"classname" "script_struct"
+}
+// entity 78
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.842200"
+"angles" "11.0687 192.463 2.02127"
+"targetname" "zone2_spawners_rise"
+"origin" "-3992.4 -188.6 166.1"
+"classname" "script_struct"
+}
+// entity 79
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.892334"
+"angles" "10.4239 209.55 -3.17995"
+"targetname" "zone2_spawners_rise"
+"origin" "-3988.2 -367.2 167.5"
+"classname" "script_struct"
+}
+// entity 80
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.831323"
+"angles" "348.484 140.501 0.625364"
+"targetname" "zone2_spawners_rise"
+"origin" "-4116.0 -334.0 131.8"
+"classname" "script_struct"
+}
+// entity 81
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.889368"
+"angles" "357.128 83.3981 -7.3458"
+"targetname" "zone2_spawners_rise"
+"origin" "-4108.0 -501.7 135.5"
+"classname" "script_struct"
+}
+// entity 82
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.039514"
+"angles" "0 156.281 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4252.9 -494.7 128.0"
+"classname" "script_struct"
+}
+// entity 83
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.919543"
+"angles" "0 106.183 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4265.8 -656.6 128.0"
+"classname" "script_struct"
+}
+// entity 84
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.001794"
+"angles" "0 246.786 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4376.6 -516.5 128.0"
+"classname" "script_struct"
+}
+// entity 85
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.054932"
+"angles" "338.545 302.413 -14.5877"
+"targetname" "zone2_spawners_rise"
+"origin" "-4394.8 -661.4 129.7"
+"classname" "script_struct"
+}
+// entity 86
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.241150"
+"angles" "0 62.5232 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4650.2 -727.2 128.0"
+"classname" "script_struct"
+}
+// entity 87
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.292712"
+"angles" "0 341.752 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4775.6 -665.9 128.0"
+"classname" "script_struct"
+}
+// entity 88
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.711517"
+"angles" "0 65.061 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4570.2 -407.5 128.0"
+"classname" "script_struct"
+}
+// entity 89
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.835553"
+"angles" "3.11983 295.752 -6.43697"
+"targetname" "zone2_spawners_rise"
+"origin" "-4712.0 -377.1 128.2"
+"classname" "script_struct"
+}
+// entity 90
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.915753"
+"angles" "357.985 310.828 -1.73518"
+"targetname" "zone2_spawners_rise"
+"origin" "-4813.1 -192.2 134.1"
+"classname" "script_struct"
+}
+// entity 91
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.047204"
+"angles" "342.616 326.142 11.335"
+"targetname" "zone2_spawners_rise"
+"origin" "-4636.3 -210.5 136.8"
+"classname" "script_struct"
+}
+// entity 92
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.098511"
+"angles" "0 89.2639 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4753.7 34.5 128.0"
+"classname" "script_struct"
+}
+// entity 93
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "1.282806"
+"angles" "0 258.289 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4670.3 106.0 128.0"
+"classname" "script_struct"
+}
+// entity 94
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.714374"
+"angles" "0 217.354 0"
+"targetname" "zone2_spawners_rise"
+"origin" "-4821.3 129.4 128.0"
+"classname" "script_struct"
+}
+// entity 95
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.794537"
+"angles" "0 279.492 0"
+"targetname" "underground_spawners_rise"
+"origin" "-4096.3 55.8 -256.0"
+"classname" "script_struct"
+}
+// entity 96
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.770660"
+"angles" "0 67.2473 0"
+"targetname" "underground_spawners_rise"
+"origin" "-3956.3 126.2 -256.0"
+"classname" "script_struct"
+}
+// entity 97
+{
+"script_noteworthy" "find_flesh"
+"modelscale" "0.711902"
+"angles" "0 52.8113 0"
+"targetname" "underground_spawners_rise"
+"origin" "-3881.6 110.8 -256.0"
+"classname" "script_struct"
+}
+// entity 98
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "2"
+"targetname" "door_debris2"
+"spawnflags" "1"
+"classname" "script_brushmodel"
+// brush 0
+{
+ ( -2900 -1308 76 ) ( -2916 -1308 76 ) ( -2916 -1340 76 ) clip 64 64 0 0 0 0 lightmap_gray 16383.994 16383.984 19.985863 -55.998726 0 0
+ ( -2904 -1340 500 ) ( -2904 -1308 500 ) ( -2888 -1308 500 ) clip 64 64 0 0 0 0 lightmap_gray 16383.994 16383.984 19.985863 -55.998726 0 0
+ ( -2928 -1376 144 ) ( -2928 -1376 76 ) ( -2936 -1360 76 ) clip 64 64 0 0 0 0 lightmap_gray 16383.879 16384 19.97788 0 0 0
+ ( -2900 -1304 76 ) ( -2928 -1376 144 ) ( -2900 -1304 144 ) clip 64 64 0 0 0 0 lightmap_gray 16383.984 16384 55.998726 0 0 0
+ ( -2912 -1304 144 ) ( -2912 -1304 76 ) ( -2900 -1304 76 ) clip 64 64 0 0 0 0 lightmap_gray 16383.76 16384 19.956739 0 0 0
+ ( -2936 -1360 76 ) ( -2912 -1304 144 ) ( -2936 -1360 144 ) clip 64 64 0 0 0 0 lightmap_gray 16384.031 16384 56.003662 0 0 0
+ ( -2936 -1360 76 ) ( -2936 -1360 144 ) ( -2928 -1376 144 ) clip 64 64 0 0 0 0 lightmap_gray 16383.879 16384 19.97788 0 0 0
+}
+}
+// entity 99
+{
+"target" "door_debris2"
+"zombie_cost" "2000"
+"targetname" "zombie_debris"
+"classname" "trigger_use"
+// brush 0
+{
+ ( -2844 -1288 76 ) ( -2952 -1288 76 ) ( -2952 -1400 76 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2920 -1400 148 ) ( -2920 -1288 148 ) ( -2812 -1288 148 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2952 -1400 500 ) ( -2844 -1400 500 ) ( -2844 -1400 76 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2844 -1400 500 ) ( -2844 -1288 500 ) ( -2844 -1288 76 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2844 -1288 500 ) ( -2952 -1288 500 ) ( -2952 -1288 76 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2952 -1288 500 ) ( -2952 -1400 500 ) ( -2952 -1400 76 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 100
+{
+"target" "door_debris1"
+"zombie_cost" "2000"
+"targetname" "zombie_debris"
+"classname" "trigger_use"
+// brush 0
+{
+ ( -2788 100 284 ) ( -2896 100 284 ) ( -2896 -12 284 ) trigger 64 64 55.984592 -1388 0 0 lightmap_gray 16384 16384 56 -1388 0 0
+ ( -2864 -12 356 ) ( -2864 100 356 ) ( -2756 100 356 ) trigger 64 64 56.00491 -1388.0016 0 0 lightmap_gray 16384 16384 56.004395 -1388 0 0
+ ( -2896 -12 708 ) ( -2788 -12 708 ) ( -2788 -12 284 ) trigger 64 64 55.97998 -208 0 0 lightmap_gray 16384.117 16384 56.019642 -208 0 0
+ ( -2788 -12 708 ) ( -2788 100 708 ) ( -2788 100 284 ) trigger 64 64 1388 -208 0 0 lightmap_gray 16384 16384 1388.0017 -208 0 0
+ ( -2788 100 708 ) ( -2896 100 708 ) ( -2896 100 284 ) trigger 64 64 55.997314 -208 0 0 lightmap_gray 16384.063 16384 56.010178 -208 0 0
+ ( -2896 100 708 ) ( -2896 -12 708 ) ( -2896 -12 284 ) trigger 64 64 1388 -208 0 0 lightmap_gray 16384 16384 1388 -208 0 0
+}
+}
+// entity 101
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"targetname" "door_debris1"
+"spawnflags" "1"
+"classname" "script_brushmodel"
+// brush 0
+{
+ ( -2828 152 284 ) ( -2896 152 284 ) ( -2896 -88 284 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2900 -88 624 ) ( -2900 152 624 ) ( -2832 152 624 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2896 -88 356 ) ( -2828 -88 356 ) ( -2828 -88 284 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2848 -88 356 ) ( -2848 152 356 ) ( -2848 152 284 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2832 184 356 ) ( -2900 184 356 ) ( -2900 184 284 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2896 152 356 ) ( -2896 -88 356 ) ( -2896 -88 284 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 102
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"classname" "script_model"
+"model" "mp_drum_corrigated_debris1"
+"origin" "-2872.0 -8.0 328.0"
+"angles" "0 0 -30"
+"targetname" "door_debris1"
+"spawnflags" "1"
+}
+// entity 103
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"classname" "script_model"
+"model" "mp_drum_corrigated_debris2"
+"origin" "-2872.0 80.0 300.0"
+"angles" "0 0 -15"
+"targetname" "door_debris1"
+"spawnflags" "1"
+}
+// entity 104
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"classname" "script_model"
+"model" "foliage_dest_pacific_snapped_tree04_dmg1"
+"origin" "-2900.0 11.0 330.9"
+"angles" "330 270 -15"
+"targetname" "door_debris1"
+"spawnflags" "1"
+}
+// entity 105
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"targetname" "door_debris1"
+"angles" "8.67575e-006 330 75"
+"origin" "-2871.0 133.1 364.0"
+"model" "foliage_okinawa_deadtree_fallen01"
+"classname" "script_model"
+"spawnflags" "1"
+}
+// entity 106
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "1"
+"targetname" "door_debris1"
+"angles" "330 315 -15"
+"origin" "-2871.2 88.2 310.9"
+"model" "foliage_okinawa_deadtree_fallen01"
+"classname" "script_model"
+"spawnflags" "1"
+}
+// entity 107
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "2"
+"targetname" "door_debris2"
+"angles" "330 225 -15"
+"origin" "-2931.8 -1356.8 90.9"
+"model" "foliage_okinawa_deadtree_fallen01"
+"classname" "script_model"
+"spawnflags" "1"
+}
+// entity 108
+{
+"script_noteworthy" "jiggle"
+"script_firefx" "poltergeist"
+"script_linkto" "2"
+"targetname" "door_debris2"
+"origin" "-2904.2 -1338.4 102.0"
+"model" "foliage_okinawa_deadtree_fallen01"
+"classname" "script_model"
+"spawnflags" "1"
+"angles" "7.9301e-006 270 -15"
+}
+// entity 109
+{
+"origin" "-2864.0 68.0 176.0"
+"script_linkname" "1"
+"classname" "script_struct"
+}
+// entity 110
+{
+"origin" "-2900.0 -1352.0 0.0"
+"script_linkname" "2"
+"classname" "script_struct"
+}
+// entity 111
+{
+"origin" "-4468.0 -620.0 160.0"
+"classname" "node_pathnode"
+}
+// entity 112
+{
+"origin" "-4496.0 -540.0 160.0"
+"classname" "node_pathnode"
+}
+// entity 113
+{
+"origin" "-4560.0 -536.0 160.0"
+"classname" "node_pathnode"
+}
+// entity 114
+{
+"origin" "-4540.0 -620.0 160.0"
+"classname" "node_pathnode"
+}

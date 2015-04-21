@@ -1,0 +1,98 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 32 24 0 ) ( -32 24 0 ) ( -32 -24 0 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 32 24 0 0
+ ( -32 -24 32 ) ( -32 24 32 ) ( 32 24 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 24 0 0
+ ( -32 -16 16 ) ( 32 -16 16 ) ( 32 -16 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 0 0 0
+ ( 32 -12 16 ) ( -32 -12 16 ) ( -32 -12 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 0 0 0
+ ( 16 -16 31 ) ( 16 -13 34 ) ( 48 -16 31 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 -13 32 ) ( 16 -10 29 ) ( 48 -13 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 12 -12 32 ) ( 16 -16 32 ) ( 12 -12 64 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -16 -16 32 ) ( -12 -12 32 ) ( -16 -16 64 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 1
+{
+ ( 24 -32 0 ) ( 24 32 0 ) ( -24 32 0 ) caulk 64 64 0 0 -90 0 lightmap_gray 16384 16384 32 24 -90 0
+ ( -24 32 32 ) ( 24 32 32 ) ( 24 -32 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 24 -90 0
+ ( -16 32 16 ) ( -16 -32 16 ) ( -16 -32 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 -16384 32 0 180 0
+ ( -12 -32 16 ) ( -12 32 16 ) ( -12 32 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 -16384 32 0 180 0
+ ( -16 -16 31 ) ( -13 -16 34 ) ( -16 -48 31 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16383.973 0 0 -90 0
+ ( -13 -16 32 ) ( -10 -16 29 ) ( -13 -48 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 -90 0
+ ( -12 -12 32 ) ( -16 -16 32 ) ( -12 -12 64 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -16 16 32 ) ( -12 12 32 ) ( -16 16 64 ) caulk 64 -64 0 0 180 0 lightmap_gray 16384 -16384 0 0 180 0
+}
+// brush 2
+{
+ ( -24 32 0 ) ( -24 -32 0 ) ( 24 -32 0 ) caulk 64 64 0 0 90 0 lightmap_gray 16384 16384 32 24 90 0
+ ( 24 -32 32 ) ( -24 -32 32 ) ( -24 32 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 24 90 0
+ ( 16 -32 16 ) ( 16 32 16 ) ( 16 32 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 0 0 0
+ ( 12 32 16 ) ( 12 -32 16 ) ( 12 -32 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 0 0 0
+ ( 16 16 31 ) ( 13 16 34 ) ( 16 48 31 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 90 0
+ ( 13 16 32 ) ( 10 16 29 ) ( 13 48 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 90 0
+ ( 12 12 32 ) ( 16 16 32 ) ( 12 12 64 ) caulk 64 -64 0 0 180 0 lightmap_gray 16384 -16384 0 0 180 0
+ ( 16 -16 32 ) ( 12 -12 32 ) ( 16 -16 64 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 3
+{
+ ( -32 -24 0 ) ( 32 -24 0 ) ( 32 24 0 ) caulk 64 64 0 0 180 0 lightmap_gray 16384 16384 32 24 180 0
+ ( 32 24 32 ) ( 32 -24 32 ) ( -32 -24 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 32 24 180 0
+ ( 32 16 16 ) ( -32 16 16 ) ( -32 16 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 -16384 32 0 180 0
+ ( -32 12 16 ) ( 32 12 16 ) ( 32 12 0 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 -16384 32 0 180 0
+ ( -16 16 31 ) ( -16 13 34 ) ( -48 16 31 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 180 0
+ ( -16 13 32 ) ( -16 10 29 ) ( -48 13 32 ) okinawa_wall_shuri_int_lacquer_gld_noscorch 32 32 0 0 0 0 lightmap_gray 16384 16384 0 0 180 0
+ ( -12 12 32 ) ( -16 16 32 ) ( -12 12 64 ) caulk 64 -64 0 0 180 0 lightmap_gray 16384 -16384 0 0 180 0
+ ( 16 16 32 ) ( 12 12 32 ) ( 16 16 64 ) caulk 64 -64 0 0 180 0 lightmap_gray 16384 -16384 0 0 180 0
+}
+// brush 4
+ {
+  mesh
+  {
+   berlin_terrain_dirt_small
+   lightmap_gray
+   3 3 16 8
+   (
+	v -12 -12 31 t 0 -0 -0.75 0.75
+	v -12 0 30 t 0 -194.64841 -0.75 0
+	v -12 12 30 t 0 -392.5575 -0.75 -0.75
+   )
+   (
+	v 0 -12 30 t 194.64841 -0 0 0.75
+	v 0 0 28 t 194.64841 -194.64841 0 0
+	v 0 12 31 t 194.64841 -392.5575 0 -0.75
+   )
+   (
+	v 12 -12 30 t 392.5575 -0 0.75 0.75
+	v 12 0 31 t 392.5575 -194.64841 0.75 0
+	v 12 12 30 t 392.5575 -392.5575 0.75 -0.75
+   )
+  }
+ }
+}
+// entity 1
+{
+"origin" "0.0 0.0 28.0"
+"modelscale" "0.5"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"classname" "misc_model"
+}
+// entity 2
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "0.5"
+"origin" "0.0 0.0 28.0"
+"angles" "0 270 0"
+}
+// entity 3
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "0.5"
+"origin" "2.0 2.0 28.0"
+"angles" "0 180 0"
+}

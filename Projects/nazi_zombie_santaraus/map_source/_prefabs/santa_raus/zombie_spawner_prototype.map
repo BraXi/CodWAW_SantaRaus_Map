@@ -1,0 +1,19 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"origin" "0.0 0.0 0.0"
+"script_noteworthy" "zombie_spawner"
+"spawnflags" "3"
+"script_forcespawn" "1"
+"count" "9999"
+"targetname" "zombie_spawner_init"
+"export" "7"
+"model" "char_ger_wrmcht_fullbody1"
+"classname" "actor_axis_zombie_ger_ber_sshonor"
+}

@@ -1,0 +1,23 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"modelscale" "1.2"
+"model" "foliage_pacific_seaweed_strand02"
+"origin" "0.0 -69.0 0.0"
+"classname" "misc_model"
+"angles" "65 270 -90"
+}
+// entity 2
+{
+"modelscale" "1.2"
+"angles" "65 270 -90"
+"classname" "misc_model"
+"origin" "0.0 69.0 0.0"
+"model" "foliage_pacific_seaweed_strand02"
+}

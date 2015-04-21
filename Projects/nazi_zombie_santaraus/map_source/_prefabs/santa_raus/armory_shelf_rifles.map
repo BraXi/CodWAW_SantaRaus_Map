@@ -1,0 +1,184 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 0 20 -26 ) ( -12 20 -26 ) ( -12 12 -26 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384.125 16384.1 324 -158 0 0
+ ( -12 -20 -24 ) ( -12 -12 -24 ) ( 0 -12 -24 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384.244 16384 324.00119 -158 0 0
+ ( -12 -32 -24 ) ( 0 -32 -24 ) ( 0 -32 -26 ) berlin_floors_wood_dirty2 128 128 324 0 0 0 lightmap_gray 16384.084 16384 324 0 0 0
+ ( 0 -20 -24 ) ( 0 -12 -24 ) ( 0 -12 -26 ) berlin_floors_wood_dirty2 128 128 158 0 0 0 lightmap_gray 16384 16384 158 0 0 0
+ ( 0 32 -24 ) ( -12 32 -24 ) ( -12 32 -26 ) berlin_floors_wood_dirty2 128 128 324 0 0 0 lightmap_gray 16384 16384 324 0 0 0
+ ( -12 -12 -24 ) ( -12 -20 -24 ) ( -12 -20 -26 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384 16384 158 0 0 0
+}
+// brush 1
+{
+ ( 0 20 -24 ) ( -12 20 -24 ) ( -12 12 -24 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384.125 16384 324 -221 0 0
+ ( -11 43 -14 ) ( -11 51 -14 ) ( 1 51 -14 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16383.875 16383.873 323.99854 -221 0 0
+ ( -12 31 -22 ) ( 0 31 -22 ) ( 0 31 -24 ) berlin_floors_wood_dirty2 128 128 324 0 0 3.7453392e-005 lightmap_gray 16384.209 16383.994 324 -2 0 0
+ ( 0 43 -22 ) ( 0 51 -22 ) ( 0 51 -24 ) berlin_floors_wood_dirty2 128 128 158 0 0 0 lightmap_gray 16384 16384 221 -2 0 0
+ ( 0 32 -22 ) ( -12 32 -22 ) ( -12 32 -24 ) berlin_floors_wood_dirty2 128 128 324 0 0 0 lightmap_gray 16384 16384 324 -2 0 0
+ ( -12 51 -22 ) ( -12 43 -22 ) ( -12 43 -24 ) berlin_floors_wood_dirty2 128 128 158 0 0 0 lightmap_gray 16384.041 16384 221 -2 0 0
+ ( -6 95 -14 ) ( -12 95 -20 ) ( -12 127 -20 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384.502 16384 324.00977 -221 0 0
+}
+// brush 2
+{
+ ( 0 -43 -24 ) ( -12 -43 -24 ) ( -12 -51 -24 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384 16384.023 324 -158 0 0
+ ( -11 -20 -14 ) ( -11 -12 -14 ) ( 1 -12 -14 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16383.922 16384 324 -158 0 0
+ ( -12 -32 -22 ) ( 0 -32 -22 ) ( 0 -32 -24 ) berlin_floors_wood_dirty2 128 128 324 0 0 3.7453392e-005 lightmap_gray 16384.209 16383.994 324 -2 0 0
+ ( 0 -20 -22 ) ( 0 -12 -22 ) ( 0 -12 -24 ) berlin_floors_wood_dirty2 128 128 158 0 0 0 lightmap_gray 16384 16384.014 158 -2 0 0
+ ( 0 -31 -22 ) ( -12 -31 -22 ) ( -12 -31 -24 ) berlin_floors_wood_dirty2 128 128 324 0 0 0 lightmap_gray 16384 16384 324 -2 0 0
+ ( -12 -12 -22 ) ( -12 -20 -22 ) ( -12 -20 -24 ) berlin_floors_wood_dirty2 128 128 158 0 0 0 lightmap_gray 16384 16384 158 -2 0 0
+ ( -6 32 -14 ) ( -12 32 -20 ) ( -12 64 -20 ) berlin_floors_wood_dirty2 128 128 324 -158 0 0 lightmap_gray 16384 16384 323.99872 -158 0 0
+}
+// brush 3
+{
+ ( 0 32 -24 ) ( -2 32 -24 ) ( -2 -32 -24 ) caulk 64 64 323.99387 -158 0 0 lightmap_gray 16384.5 16384 324.0094 -158 0 0
+ ( -2 -32 30 ) ( -2 32 30 ) ( 0 32 30 ) berlin_floors_wood_dirty2 128 128 0 0 0 0 lightmap_gray 16384.5 16384 324.0094 -158 0 0
+ ( -2 -31 27 ) ( 0 -31 27 ) ( 0 -31 -24 ) berlin_floors_wood_dirty2 128 128 0 324.00604 90 0 lightmap_gray 16385.5 16384 324.0304 0 0 0
+ ( 0 -32 27 ) ( 0 32 27 ) ( 0 32 -24 ) caulk 64 64 158 0 0 0 lightmap_gray 16384 16384 158 0 0 0
+ ( 0 31 27 ) ( -2 31 27 ) ( -2 31 -24 ) berlin_floors_wood_dirty2 128 128.00391 0 324.00989 90 0 lightmap_gray 16385 16384 324.02051 0 0 0
+ ( -2 32 30 ) ( -2 -32 30 ) ( -2 -32 -21 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384 16384 158 0 0 0
+}
+// brush 4
+{
+ ( -3 20 0 ) ( -15 20 0 ) ( -15 12 0 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16384 16384.037 331 -221 0 0
+ ( -5 43 1 ) ( -5 51 1 ) ( 7 51 1 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16384 16383.832 330.99875 -221 0 0
+ ( -5 31 2 ) ( 7 31 2 ) ( 7 31 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16384.283 16383.975 331 -26 0 0
+ ( 0 43 2 ) ( 0 51 2 ) ( 0 51 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.291 16384 221 -26 0 0
+ ( 7 32 2 ) ( -5 32 2 ) ( -5 32 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16383.799 16384 331 -26 0 0
+ ( -5 51 2 ) ( -5 43 2 ) ( -5 43 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.088 16384 221 -26 0 0
+}
+// brush 5
+{
+ ( -3 -43 0 ) ( -15 -43 0 ) ( -15 -51 0 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16384 16384.023 331 -158 0 0
+ ( -5 -20 1 ) ( -5 -12 1 ) ( 7 -12 1 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16383.9 16384 331 -158 0 0
+ ( -5 -32 2 ) ( 7 -32 2 ) ( 7 -32 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16384 16383.975 331 -26 0 0
+ ( 0 -20 2 ) ( 0 -12 2 ) ( 0 -12 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.025 16384 158 -26 0 0
+ ( 7 -31 2 ) ( -5 -31 2 ) ( -5 -31 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16384 16384 331.0015 -26 0 0
+ ( -5 -12 2 ) ( -5 -20 2 ) ( -5 -20 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.01 16384 158 -26 0 0
+}
+// brush 6
+{
+ ( -4 20 0 ) ( -16 20 0 ) ( -16 12 0 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16383.992 16384.025 330 -158 0 0
+ ( -6 -20 1 ) ( -6 -12 1 ) ( 6 -12 1 ) berlin_floors_wood_dirty2 128 128 158 324 90 0 lightmap_gray 16384.068 16384.063 330 -158 0 0
+ ( -6 -32 2 ) ( 6 -32 2 ) ( 6 -32 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16384.084 16384 330 -26 0 0
+ ( -5 -20 2 ) ( -5 -12 2 ) ( -5 -12 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.025 16384 158 -26 0 0
+ ( 6 32 2 ) ( -6 32 2 ) ( -6 32 0 ) berlin_floors_wood_dirty2 128 128 0 324 90 0 lightmap_gray 16384.25 16384 330 -26 0 0
+ ( -6 -12 2 ) ( -6 -20 2 ) ( -6 -20 0 ) berlin_floors_wood_dirty2 128 128 0 158 90 0 lightmap_gray 16384.01 16384 158 -26 0 0
+}
+}
+// entity 1
+{
+"origin" "-4.0 30.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 2
+{
+"origin" "-4.0 26.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 3
+{
+"origin" "-4.0 22.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 4
+{
+"origin" "-4.0 18.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 5
+{
+"origin" "-4.0 14.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 6
+{
+"origin" "-4.0 10.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 7
+{
+"origin" "-4.0 6.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 8
+{
+"origin" "-4.0 2.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 9
+{
+"origin" "-4.0 -2.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 10
+{
+"origin" "-4.0 -6.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 11
+{
+"origin" "-4.0 -10.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 12
+{
+"origin" "-4.0 -14.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 13
+{
+"origin" "-4.0 -18.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 14
+{
+"origin" "-4.0 -22.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 15
+{
+"origin" "-4.0 -26.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}
+// entity 16
+{
+"origin" "-4.0 -30.0 0.0"
+"angles" "270 180 -5.00896e-006"
+"model" "weapon_ger_kar98_rifle"
+"classname" "misc_model"
+}

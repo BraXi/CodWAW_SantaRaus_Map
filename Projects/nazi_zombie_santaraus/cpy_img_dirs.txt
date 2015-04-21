@@ -1,0 +1,12 @@
+(Images Folder) = D:\Gry\Call of Duty - World at War\raw\images\
+(Destination Folder) = D:\Gry\Call of Duty - World at War\Projects\nazi_zombie_santaraus\raw\images\
+(IWD Folder) = D:\Gry\Call of Duty - World at War\main
+
+
+
+Updat the paths above to be correct for your pc etc..
+
+
+Then go ->  cod_root\zone_source\english\assetlist\
+
+And drag any .csv file directoy onto the exe file 2 run it.

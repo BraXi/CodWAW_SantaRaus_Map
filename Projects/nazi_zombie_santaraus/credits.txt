@@ -1,0 +1,19 @@
+
+==================================================
+SparkyMcSparks
+http://alexromo.com
+
+MATERIALS: christmas_box1, christmas_box2, christmas_box3, 
+christmas_box4, christmas_box5, christmas_cane, christmas_icicles
+christmas_light_snowflake, christmas_lights, christmas_whitelights,
+christmas_whitelights2
+
+EFFECTS: fx\env\weather\fx_snow_blizzard_intense.efx
+
+==================================================
+Infinity Ward
+http://infinityward.com
+
+COD 4 MODELS & TEXTURES
+
+==================================================

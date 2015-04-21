@@ -1,0 +1,37 @@
+
+
+// Scripts
+rawfile,maps/nazi_zombie_santaraus.gsc
+rawfile,maps/nazi_zombie_santaraus_anim.gsc
+rawfile,maps/nazi_zombie_santaraus_fx.gsc
+rawfile,maps/createart/nazi_zombie_santaraus_art.gsc
+rawfile,braxi/_fxutil.gsc
+
+// Client scripts
+rawfile,clientscripts/createfx/nazi_zombie_santaraus_fx.csc
+rawfile,clientscripts/nazi_zombie_santaraus.csc
+rawfile,clientscripts/nazi_zombie_santaraus_amb.csc
+rawfile,clientscripts/nazi_zombie_santaraus_fx.csc
+
+
+// Vision files
+rawfile,vision/nazi_zombie_santaraus.vision
+rawfile,vision/santaraus_facility.vision
+rawfile,vision/santaraus_railway.vision
+
+
+// Effects
+fx,env/weather/fx_snow_blizzard_intense
+fx,env/fire/fx_fire_blown_md_light_blk_smk2
+fx,misc/fx_spotlight_large
+fx,env/smoke/fx_smoke_window_md_gry
+
+
+
+// Zombie capsule
+rawfile,maps/_zombie_capsule.gsc
+xmodel,char_ger_honorgd_body1_1
+xanim,ai_zombie_attack_v1
+xanim,ai_zombie_attack_v2
+xanim,ai_zombie_attack_v4
+xanim,ai_zombie_attack_v6

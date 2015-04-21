@@ -1,0 +1,155 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 92 -76 0 ) ( 96 -80 0 ) ( 96 -48 0 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.609 16382.053 -31.978912 103.99666 90 -1.8866618e-005
+ ( 95 -79 40 ) ( 93 -77 40 ) ( 93 -51 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16392.064 -32.026215 104 90 0.00030615923
+ ( 96 80 8 ) ( 96 80 39 ) ( 96 112 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.754 16384 -32 -16 0 0
+ ( 92 -76 39 ) ( 92 -76 8 ) ( 92 -52 8 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16384 -32 -16 0 0
+ ( 96 -80 39 ) ( 95 -79 40 ) ( 95 -49 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.949 16383.371 -64.235992 80 90 -0.0018441238
+ ( 93 -77 40 ) ( 92 -76 39 ) ( 92 -52 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.518 16384.736 -64.214355 80 90 -0.0016639214
+ ( 92 -28 16 ) ( 92 -28 47 ) ( 93 -29 48 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16405.35 16384 -15.980208 -15.91423 0 0
+ ( 88 24 40 ) ( 96 32 40 ) ( 88 24 72 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.75 -16384 3103.9546 128 180 0
+}
+// brush 1
+{
+ ( -92 76 0 ) ( -96 80 0 ) ( -96 48 0 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.881 16382.93 -31.984892 104 -90 -0.00012187361
+ ( -95 79 40 ) ( -93 77 40 ) ( -93 51 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.242 16390.189 -32.025227 104.00176 -90 0.00027508699
+ ( -96 -80 8 ) ( -96 -80 39 ) ( -96 -112 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.342 -16384 -32 16 180 0
+ ( -92 76 39 ) ( -92 76 8 ) ( -92 52 8 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.207 -16384 -32 16 180 0
+ ( -96 80 39 ) ( -95 79 40 ) ( -95 49 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.256 16383.492 -64.089836 80 -90 -0.00034470303
+ ( -93 77 40 ) ( -92 76 39 ) ( -92 52 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.227 16383.861 -64.150833 80 -90 -0.001
+ ( -92 28 16 ) ( -92 28 47 ) ( -93 29 48 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16378.074 -16384 -16 15.854256 180 0
+ ( -88 -24 40 ) ( -96 -32 40 ) ( -88 -24 72 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.375 16384 3103.8787 -128 0 0
+}
+// brush 2
+{
+ ( -140 -28 0 ) ( -144 -32 0 ) ( -112 -32 0 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16382.953 -95.98423 40 0 0
+ ( -143 -31 40 ) ( -141 -29 40 ) ( -115 -29 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16393.561 -96.07119 40 0 0
+ ( 16 -32 8 ) ( 16 -32 39 ) ( 48 -32 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.938 16384 -96 -16 0 0
+ ( -140 -28 39 ) ( -140 -28 8 ) ( -116 -28 8 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16384 -96 -16 0 0
+ ( -144 -32 39 ) ( -143 -31 40 ) ( -113 -31 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.938 16383.15 -128.06091 16 0 3.0611274e-005
+ ( -141 -29 40 ) ( -140 -28 39 ) ( -116 -28 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.957 16386.328 -128.05431 15.99728 0 3.9714829e-005
+ ( 92 -28 39 ) ( 92 -28 8 ) ( 96 -32 8 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.016 16384 -16 -15.933123 0 0
+ ( -92 -28 16 ) ( -92 -28 47 ) ( -93 -29 48 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16381.021 16384 -16 -15.875 0 0
+}
+// brush 3
+ {
+  mesh
+  {
+   berlin_terrain_dirt_small
+   lightmap_gray
+   3 3 16 8
+   (
+	v -92 -28 39 t 0 -0 -0.75 0.75
+	v -92 0 38 t 0 -449.14139 -0.75 0
+	v -92 28 38 t 0 -899.70544 -0.75 -0.75
+   )
+   (
+	v 0 -28 38 t 1472.3478 -0 0 0.75
+	v 0 0 36 t 1472.3478 -449.14139 0 0
+	v 0 28 39 t 1472.3478 -899.70544 0 -0.75
+   )
+   (
+	v 92 -28 38 t 2945.1301 -0 0.75 0.75
+	v 92 0 39 t 2945.1301 -449.14139 0.75 0
+	v 92 28 38 t 2945.1301 -899.70544 0.75 -0.75
+   )
+  }
+ }
+// brush 4
+{
+ ( -116 28 0 ) ( -112 32 0 ) ( -144 32 0 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16386.016 159.9776 40 180 0
+ ( -113 31 40 ) ( -115 29 40 ) ( -141 29 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16398.115 160.02248 40.002979 180 0
+ ( -112 32 16 ) ( -112 32 47 ) ( -144 32 47 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 -16384 160 16 180 0
+ ( 92 28 39 ) ( 92 28 8 ) ( 68 28 8 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.9 -16384 160 16 180 0
+ ( -112 32 39 ) ( -113 31 40 ) ( -143 31 40 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384 16375.838 128 16.012165 180 0
+ ( -115 29 40 ) ( -116 28 39 ) ( -140 28 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16384.031 16383.41 128.02205 16 -180 -3.402117e-005
+ ( -92 28 8 ) ( -96 32 8 ) ( -96 32 39 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16383.514 -16384 -16 16.02021 180 0
+ ( 96 32 16 ) ( 92 28 16 ) ( 92 28 47 ) berlin_wall_metal_silver 128 128 0 0 0 0 lightmap_gray 16382 -16384 -16 16.02223 180 0
+}
+}
+// entity 1
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "-72.0 0.0 32.0"
+"angles" "0 270 0"
+}
+// entity 2
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "-40.0 0.0 32.0"
+"angles" "0 270 0"
+}
+// entity 3
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "-4.0 0.0 32.0"
+"angles" "0 180 0"
+}
+// entity 4
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "28.0 -4.0 32.0"
+"angles" "0 90 0"
+}
+// entity 5
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "72.0 0.0 32.0"
+"angles" "0 2.50448e-006 0"
+}
+// entity 6
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "88.0 0.0 28.0"
+"angles" "0 90 0"
+}
+// entity 7
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "56.0 0.0 28.0"
+"angles" "0 90 0"
+}
+// entity 8
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "20.0 0.0 28.0"
+"angles" "0 2.50448e-006 0"
+}
+// entity 9
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "-12.0 4.0 28.0"
+"angles" "0 270 0"
+}
+// entity 10
+{
+"classname" "misc_model"
+"model" "foliage_dest_pacific_oki2_fern01_dmg1"
+"modelscale" "1"
+"origin" "-56.0 0.0 28.0"
+"angles" "0 180 0"
+}

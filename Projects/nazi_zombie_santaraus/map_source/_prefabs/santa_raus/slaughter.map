@@ -1,0 +1,84 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"sunisprimarylight" "1"
+"contrastgain" ".5"
+"brightness" ".4"
+"sunlight" ".8"
+"sundirection" "-30 91 0"
+"sundiffusecolor" "0.4 0.6 1"
+"suncolor" "0.8 0.9 1"
+"diffusefraction" "0.6"
+"ambient" "0.1"
+"_color" "0.717647 0.776471 1.000000"
+"classname" "worldspawn"
+}
+// entity 1
+{
+"origin" "-4190.0 -314.0 -187.0"
+"model" "static_berlin_meat_large"
+"classname" "misc_model"
+}
+// entity 2
+{
+"angles" "0 2.50448e-006 0"
+"origin" "-4179.0 -327.0 -187.0"
+"model" "static_berlin_meat_large"
+"classname" "misc_model"
+}
+// entity 3
+{
+"angles" "0 180 0"
+"origin" "-4176.0 -314.0 -189.0"
+"model" "static_berlin_meat_small"
+"classname" "misc_model"
+}
+// entity 4
+{
+"angles" "0 2.50448e-006 0"
+"origin" "-4163.0 -327.0 -187.0"
+"model" "static_berlin_meat_small"
+"classname" "misc_model"
+}
+// entity 5
+{
+"origin" "-4206.0 -314.0 -187.0"
+"model" "static_berlin_meat_small"
+"classname" "misc_model"
+}
+// entity 6
+{
+"angles" "0 180 0"
+"origin" "-4203.0 -327.0 -187.0"
+"model" "static_berlin_meat_large"
+"classname" "misc_model"
+}
+// entity 7
+{
+"angles" "0 180 0"
+"origin" "-4151.0 -313.0 -187.0"
+"model" "static_berlin_meat_small"
+"classname" "misc_model"
+}
+// entity 8
+{
+"angles" "0 180 0"
+"origin" "-4163.0 -313.0 -187.0"
+"model" "static_berlin_meat_large"
+"classname" "misc_model"
+}
+// entity 9
+{
+"angles" "0 2.50448e-006 0"
+"origin" "-4151.0 -327.0 -187.0"
+"model" "static_berlin_meat_large"
+"classname" "misc_model"
+}
+// entity 10
+{
+"origin" "-4176.2 -320.3 -240.0"
+"model" "static_berlin_clothes_rack"
+"classname" "misc_model"
+}

@@ -1,0 +1,873 @@
+iwmap 4
+// entity 0
+{
+"modelscale" ".75"
+"no_collmap" "1"
+"skyboxmodel" "skybox_oki3"
+"classname" "worldspawn"
+"northyaw" "90"
+"ambient" "0.15"
+"_color" "0.411765 0.34902 0.439216"
+"diffusefraction" "0.35"
+"sundiffusecolor" "0.3647 0.3686 0.3725"
+"suncolor" "1 0.839 0.643"
+"sundirection" "-155 -182 0"
+"sunlight" "1.25"
+"radiosityscale" "1"
+"sunradiosity" "1.2"
+"contrastgain" "0.15"
+// brush 0
+ {
+  curve
+  {
+  contents nonColliding;
+   okinawa_floor_shuri_build_tatami
+   lightmap_gray
+   9 3 16 3
+   (
+	v 1222.4303 -609.52771 -175.33649 t 0 -0 1 1
+	v 1233.0646 -564.0885 -176.79178 t 0 -384 1 7
+	v 1240.3851 -515.41492 -176.40649 t 0 -768 1 15
+   )
+   (
+	v 1210.7097 -607.0564 -176.5694 t 192 -0 5 1
+	v 1224.3677 -561.95227 -177.97531 t 192 -384 5 7
+	v 1228.5626 -513.48633 -177.62146 t 192 -768 5 15
+   )
+   (
+	v 1210.6667 -606.9342 -173.07193 t 320 -0 9 1
+	v 1224.3248 -561.82947 -174.47791 t 320 -384 9 7
+	v 1228.5194 -513.36328 -174.12415 t 320 -768 9 15
+   )
+   (
+	v 1210.623 -606.81201 -169.57425 t 448 -0 13 1
+	v 1224.2813 -561.70728 -170.98035 t 448 -384 13 7
+	v 1228.4753 -513.2417 -170.62643 t 448 -768 13 15
+   )
+   (
+	v 1222.3828 -609.39575 -171.52094 t 640 -0 17 1
+	v 1233.0195 -563.95386 -172.97638 t 640 -384 17 7
+	v 1240.338 -515.2821 -172.59088 t 640 -768 17 15
+   )
+   (
+	v 1233.0652 -611.38269 -169.13538 t 832 -0 21 1
+	v 1242.2021 -566.02466 -170.60651 t 832 -384 21 7
+	v 1252.1487 -517.16882 -170.19449 t 832 -768 21 15
+   )
+   (
+	v 1233.1085 -611.50537 -172.633 t 960 -0 25 1
+	v 1242.2449 -566.14612 -174.10394 t 960 -384 25 7
+	v 1252.1921 -517.29114 -173.69229 t 960 -768 25 15
+   )
+   (
+	v 1233.1516 -611.62805 -176.13037 t 1088 -0 29 1
+	v 1242.2896 -566.26855 -177.60165 t 1088 -384 29 7
+	v 1252.2363 -517.41333 -177.18994 t 1088 -768 29 15
+   )
+   (
+	v 1222.4303 -609.52771 -175.33649 t 1280 -0 33 1
+	v 1233.0646 -564.0885 -176.79178 t 1280 -384 33 7
+	v 1240.3851 -515.41492 -176.40649 t 1280 -768 33 15
+   )
+  }
+ }
+}
+// entity 1
+// entity 2
+// entity 3
+// entity 4
+// entity 5
+// entity 6
+// entity 7
+// entity 8
+// entity 9
+// entity 10
+// entity 11
+// entity 12
+// entity 13
+// entity 14
+// entity 15
+// entity 16
+// entity 17
+// entity 18
+// entity 19
+// entity 20
+// entity 21
+// entity 22
+// entity 23
+// entity 24
+// entity 25
+// entity 26
+// entity 27
+// entity 28
+// entity 29
+// entity 30
+// entity 31
+// entity 32
+// entity 33
+// entity 34
+// entity 35
+// entity 36
+// entity 37
+// entity 38
+// entity 39
+// entity 40
+// entity 41
+// entity 42
+// entity 43
+// entity 44
+// entity 45
+// entity 46
+// entity 47
+// entity 48
+// entity 49
+// entity 50
+// entity 51
+// entity 52
+// entity 53
+// entity 54
+// entity 55
+// entity 56
+// entity 57
+// entity 58
+// entity 59
+// entity 60
+// entity 61
+// entity 62
+// entity 63
+// entity 64
+// entity 65
+// entity 66
+// entity 67
+// entity 68
+// entity 69
+// entity 70
+// entity 71
+// entity 72
+// entity 73
+// entity 74
+// entity 75
+// entity 76
+// entity 77
+// entity 78
+// entity 79
+// entity 80
+// entity 81
+// entity 82
+// entity 83
+// entity 84
+// entity 85
+// entity 86
+// entity 87
+// entity 88
+// entity 89
+// entity 90
+// entity 91
+// entity 92
+// entity 93
+// entity 94
+// entity 95
+// entity 96
+// entity 97
+// entity 98
+// entity 99
+// entity 100
+// entity 101
+// entity 102
+// entity 103
+// entity 104
+// entity 105
+// entity 106
+// entity 107
+// entity 108
+// entity 109
+// entity 110
+// entity 111
+// entity 112
+// entity 113
+// entity 114
+// entity 115
+// entity 116
+// entity 117
+// entity 118
+// entity 119
+// entity 120
+// entity 121
+// entity 122
+// entity 123
+// entity 124
+// entity 125
+// entity 126
+// entity 127
+// entity 128
+// entity 129
+// entity 130
+// entity 131
+// entity 132
+// entity 133
+// entity 134
+// entity 135
+// entity 136
+// entity 137
+// entity 138
+// entity 139
+// entity 140
+// entity 141
+// entity 142
+// entity 143
+// entity 144
+// entity 145
+// entity 146
+// entity 147
+// entity 148
+// entity 149
+// entity 150
+// entity 151
+// entity 152
+// entity 153
+// entity 154
+// entity 155
+// entity 156
+// entity 157
+// entity 158
+// entity 159
+// entity 160
+// entity 161
+// entity 162
+// entity 163
+// entity 164
+// entity 165
+// entity 166
+// entity 167
+// entity 168
+// entity 169
+// entity 170
+// entity 171
+// entity 172
+// entity 173
+// entity 174
+// entity 175
+// entity 176
+// entity 177
+// entity 178
+// entity 179
+// entity 180
+// entity 181
+// entity 182
+// entity 183
+// entity 184
+// entity 185
+// entity 186
+// entity 187
+// entity 188
+// entity 189
+// entity 190
+// entity 191
+// entity 192
+// entity 193
+// entity 194
+// entity 195
+// entity 196
+// entity 197
+// entity 198
+// entity 199
+// entity 200
+// entity 201
+// entity 202
+// entity 203
+// entity 204
+// entity 205
+// entity 206
+// entity 207
+// entity 208
+// entity 209
+// entity 210
+// entity 211
+// entity 212
+// entity 213
+// entity 214
+// entity 215
+// entity 216
+// entity 217
+// entity 218
+// entity 219
+// entity 220
+// entity 221
+// entity 222
+// entity 223
+// entity 224
+// entity 225
+// entity 226
+// entity 227
+// entity 228
+// entity 229
+// entity 230
+// entity 231
+// entity 232
+// entity 233
+// entity 234
+// entity 235
+// entity 236
+// entity 237
+// entity 238
+// entity 239
+// entity 240
+// entity 241
+// entity 242
+// entity 243
+// entity 244
+// entity 245
+// entity 246
+// entity 247
+// entity 248
+// entity 249
+// entity 250
+// entity 251
+// entity 252
+// entity 253
+// entity 254
+// entity 255
+// entity 256
+// entity 257
+// entity 258
+// entity 259
+// entity 260
+// entity 261
+// entity 262
+// entity 263
+// entity 264
+// entity 265
+// entity 266
+// entity 267
+// entity 268
+// entity 269
+// entity 270
+// entity 271
+// entity 272
+// entity 273
+// entity 274
+// entity 275
+// entity 276
+// entity 277
+// entity 278
+// entity 279
+// entity 280
+// entity 281
+// entity 282
+// entity 283
+// entity 284
+// entity 285
+// entity 286
+// entity 287
+// entity 288
+// entity 289
+// entity 290
+// entity 291
+// entity 292
+// entity 293
+// entity 294
+// entity 295
+// entity 296
+// entity 297
+// entity 298
+// entity 299
+// entity 300
+// entity 301
+// entity 302
+// entity 303
+// entity 304
+// entity 305
+// entity 306
+// entity 307
+// entity 308
+// entity 309
+// entity 310
+// entity 311
+// entity 312
+// entity 313
+// entity 314
+// entity 315
+// entity 316
+// entity 317
+// entity 318
+// entity 319
+// entity 320
+// entity 321
+// entity 322
+// entity 323
+// entity 324
+// entity 325
+// entity 326
+// entity 327
+// entity 328
+// entity 329
+// entity 330
+// entity 331
+// entity 332
+// entity 333
+// entity 334
+{
+"modelscale" "1.000000"
+"origin" "1257.6 -361.2 -175.5"
+"model" "global_barrel_scummy "
+"classname" "misc_model"
+"angles" "359.65 84.007 -1.06872"
+}
+// entity 335
+{
+"angles" "0 270 0"
+"modelscale" "1.000000"
+"origin" "1226.0 -378.2 -176.0"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 336
+{
+"angles" "3.4 270 4.05208e-008"
+"classname" "misc_model"
+"model" "static_peleliu_crate02"
+"origin" "1224.0 -372.6 -145.5"
+"modelscale" ".75"
+}
+// entity 337
+{
+"modelscale" "1.000000"
+"origin" "1232.7 -470.2 -176.0"
+"model" "global_barrel_scummy "
+"classname" "misc_model"
+"angles" "359.815 288.578 -0.481108"
+}
+// entity 338
+{
+"modelscale" "1.000000"
+"origin" "1217.5 -491.2 -163.4"
+"model" "global_barrel_scummy "
+"classname" "misc_model"
+"angles" "13.1655 88.5 90"
+}
+// entity 339
+{
+"modelscale" "1.000000"
+"classname" "misc_model"
+"model" "static_peleliu_crate_jpn_mrtr_clsd"
+"origin" "1253.8 -420.1 -175.7"
+"angles" "358.4 276.825 -0.455833"
+}
+// entity 340
+{
+"angles" "0.235858 87.285 -62.4589"
+"origin" "1245.6 -444.5 -162.9"
+"model" "static_peleliu_crate_jpn_mrtr_clsd"
+"classname" "misc_model"
+"modelscale" "1.000000"
+}
+// entity 341
+{
+"modelscale" "1.000000"
+"angles" "359.55 335.218 -1.60213"
+"model" "static_okinawa_sandbag"
+"origin" "1251.5 -419.5 -163.7"
+"classname" "misc_model"
+}
+// entity 342
+{
+"modelscale" ".6"
+"origin" "1256.6 -453.6 -176.2"
+"angles" "0.658021 271.631 -0.549856"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 343
+{
+"classname" "misc_model"
+"origin" "1254.6 -455.2 -158.4"
+"model" "static_okinawa_sandbag"
+"angles" "0.496871 197.252 1.58834"
+"modelscale" "1.000000"
+}
+// entity 344
+{
+"modelscale" "1.000000"
+"origin" "1224.9 -422.6 -176.5"
+"model" "static_peleliu_blackbarrel01_d"
+"classname" "misc_model"
+"angles" "0 180.988 0"
+}
+// entity 345
+{
+"classname" "dyn_model"
+"origin" "1251.7 -350.0 -129.9"
+"model" "clutter_peleliu_gascan"
+"physpreset" "gascan_metal"
+"angles" "88.702 76.497 131.513"
+"modelscale" "1.000000"
+}
+// entity 346
+// entity 347
+// entity 348
+// entity 349
+// entity 350
+// entity 351
+// entity 352
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "26.9364 351.179 -8.97001"
+"origin" "1254.2 -446.2 -150.0"
+"modelscale" ".65"
+}
+// entity 353
+{
+"modelscale" ".75"
+"origin" "1234.7 -422.3 -166.5"
+"angles" "341.42 225.446 37.843"
+"model" "static_peleliu_stick_trap_single"
+"classname" "misc_model"
+}
+// entity 354
+{
+"angles" "0 180 0"
+"modelscale" "1.000000"
+"origin" "1305.8 -358.0 -176.0"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 355
+{
+"modelscale" "1.000000"
+"origin" "1221.2 -698.1 -162.5"
+"model" "global_barrel_scummy "
+"classname" "misc_model"
+"angles" "357.018 116 90"
+}
+// entity 356
+{
+"modelscale" "1.000000"
+"origin" "1223.9 -668.0 -177.0"
+"model" "static_peleliu_blackbarrel01_d"
+"classname" "misc_model"
+"angles" "0 114.873 0"
+}
+// entity 357
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "6.58024 121.982 78.4806"
+"origin" "1226.9 -711.7 -146.2"
+"modelscale" ".75"
+}
+// entity 358
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "354.472 344.036 -84.3336"
+"origin" "1222.9 -708.9 -130.9"
+"modelscale" "1.000000"
+}
+// entity 359
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "354.693 124.447 -96.9709"
+"origin" "1212.5 -700.3 -146.1"
+"modelscale" ".75"
+}
+// entity 360
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "2.33628 258.677 89.9485"
+"origin" "1211.6 -696.0 -128.0"
+"modelscale" "1.2"
+}
+// entity 361
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "355.104 299.926 -80.1902"
+"origin" "1231.4 -710.8 -149.1"
+}
+// entity 362
+// entity 363
+// entity 364
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "15.7872 2.2664 178.21"
+"origin" "1226.3 -579.6 -170.4"
+"modelscale" ".65"
+}
+// entity 365
+{
+"classname" "misc_model"
+"model" "static_peleliu_stick_trap_single"
+"angles" "334.286 347.439 -0.35197"
+"origin" "1226.2 -587.4 -171.6"
+"modelscale" ".65"
+}
+// entity 366
+{
+"modelscale" ".75"
+"origin" "1231.4 -574.4 -171.3"
+"angles" "54.2435 168.695 0.675225"
+"model" "static_peleliu_stick_trap_single"
+"classname" "misc_model"
+}
+// entity 367
+{
+"modelscale" "1.000000"
+"classname" "misc_model"
+"model" "static_peleliu_crate_jpn_mrtr_clsd"
+"origin" "1262.4 -712.3 -165.0"
+"angles" "89.5596 254.949 164.175"
+}
+// entity 368
+{
+"modelscale" "1.000000"
+"classname" "misc_model"
+"model" "static_peleliu_crate_jpn_mrtr_clsd"
+"origin" "1253.2 -692.2 -150.4"
+"angles" "356.555 207.871 -16.5"
+}
+// entity 369
+// entity 370
+// entity 371
+// entity 372
+// entity 373
+// entity 374
+// entity 375
+// entity 376
+// entity 377
+// entity 378
+// entity 379
+// entity 380
+// entity 381
+// entity 382
+// entity 383
+// entity 384
+// entity 385
+// entity 386
+// entity 387
+// entity 388
+// entity 389
+// entity 390
+// entity 391
+// entity 392
+// entity 393
+// entity 394
+{
+"modelscale" "1.000000"
+"angles" "0 271.521 0"
+"origin" "1436.3 -643.4 -164.0"
+"model" "static_okinawa_int_bench"
+"classname" "misc_model"
+}
+// entity 395
+{
+"modelscale" "1.000000"
+"angles" "2.5036e-006 270.879 -180"
+"origin" "1437.7 -648.4 -139.5"
+"model" "static_okinawa_int_bench"
+"classname" "misc_model"
+}
+// entity 396
+// entity 397
+{
+"classname" "misc_model"
+"model" "static_okinawa_int_bench"
+"origin" "1436.7 -694.6 -137.3"
+"angles" "79.0846 98.245 178.759"
+"modelscale" "1.000000"
+}
+// entity 398
+{
+"classname" "misc_model"
+"model" "static_okinawa_int_bench"
+"origin" "1415.2 -667.1 -139.5"
+"angles" "6.05851 200.005 -80.2033"
+"modelscale" "1.000000"
+}
+// entity 399
+{
+"modelscale" ".75"
+"origin" "1404.7 -701.2 -176.0"
+"angles" "0 0.189001 0"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 400
+{
+"modelscale" ".75"
+"origin" "1402.8 -676.3 -176.0"
+"angles" "0 176.589 0"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 401
+{
+"angles" "1.3194 208.201 69.9755"
+"origin" "1401.0 -679.0 -138.7"
+"model" "static_peleliu_crate_jpn_mrtr_clsd"
+"classname" "misc_model"
+}
+// entity 402
+{
+"modelscale" "1.000000"
+"angles" "0 0.734705 0"
+"model" "static_okinawa_sandbag"
+"origin" "1435.2 -662.0 -176.0"
+"classname" "misc_model"
+}
+// entity 403
+{
+"modelscale" "1.000000"
+"angles" "0 51.877 0"
+"model" "static_okinawa_sandbag"
+"origin" "1423.3 -629.1 -176.0"
+"classname" "misc_model"
+}
+// entity 404
+{
+"modelscale" ".75"
+"origin" "1400.3 -700.1 -128.8"
+"angles" "296.419 157.48 39.244"
+"model" "static_peleliu_crate02"
+"classname" "misc_model"
+}
+// entity 405
+{
+"classname" "misc_model"
+"origin" "1444.2 -636.4 -148.1"
+"model" "static_okinawa_sandbag"
+"angles" "336.404 3.305 -6.54542"
+"modelscale" "1.000000"
+}
+// entity 406
+{
+"classname" "misc_model"
+"origin" "1442.9 -655.0 -144.6"
+"model" "static_okinawa_sandbag"
+"angles" "359.974 338.689 25.8813"
+"modelscale" "1.000000"
+}
+// entity 407
+// entity 408
+// entity 409
+// entity 410
+// entity 411
+// entity 412
+// entity 413
+// entity 414
+// entity 415
+// entity 416
+// entity 417
+// entity 418
+// entity 419
+// entity 420
+// entity 421
+// entity 422
+// entity 423
+// entity 424
+// entity 425
+// entity 426
+// entity 427
+// entity 428
+// entity 429
+// entity 430
+// entity 431
+// entity 432
+// entity 433
+{
+"physpreset" "roof_tile"
+"modelscale" "1.000000"
+"angles" "0 137.599 0"
+"origin" "1355.8 -362.8 -173.0"
+"model" "clutter_okinawa_roof_tile"
+"classname" "dyn_model"
+}
+// entity 434
+{
+"physpreset" "roof_tile"
+"modelscale" "1.000000"
+"angles" "339.851 25.205 -178.518"
+"origin" "1347.2 -384.3 -172.5"
+"model" "clutter_okinawa_roof_tile"
+"classname" "dyn_model"
+}
+// entity 435
+{
+"modelscale" "1.000000"
+"angles" "0 330.985 -0"
+"origin" "1276.2 -401.2 -176.7"
+"physpreset" "bucket_metal"
+"model" "clutter_peleliu_bucket"
+"classname" "dyn_model"
+}
+// entity 436
+{
+"modelscale" "1.000000"
+"angles" "7.41563 328.073 80.7047"
+"origin" "1268.5 -525.3 -170.5"
+"physpreset" "bucket_metal"
+"model" "clutter_peleliu_bucket"
+"classname" "dyn_model"
+}
+// entity 437
+// entity 438
+// entity 439
+// entity 440
+// entity 441
+// entity 442
+// entity 443
+// entity 444
+// entity 445
+// entity 446
+// entity 447
+// entity 448
+// entity 449
+// entity 450
+// entity 451
+// entity 452
+// entity 453
+// entity 454
+// entity 455
+// entity 456
+// entity 457
+// entity 458
+// entity 459
+// entity 460
+// entity 461
+// entity 462
+// entity 463
+// entity 464
+// entity 465
+// entity 466
+// entity 467
+// entity 468
+// entity 469
+// entity 470
+// entity 471
+// entity 472
+// entity 473
+// entity 474
+// entity 475
+// entity 476
+// entity 477
+// entity 478
+// entity 479
+// entity 480
+// entity 481
+// entity 482
+// entity 483
+// entity 484
+// entity 485
+// entity 486
+// entity 487
+// entity 488
+// entity 489
+// entity 490
+// entity 491
+// entity 492
+// entity 493
+// entity 494
+// entity 495
